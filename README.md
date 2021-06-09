@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alyssago! I am a student taking up a degree in BS Management Information Systems, with specialization in Data Science and Analytics and a track in Enterprise Systems, at the Ateneo de Manila University 
+- 👀 I’m interested in project management, graphic design, and business process analysis
+- 🌱 I’m currently learning R language as well as more about frontend development using the Django framework, HTML5, and CSS
+- 💞️ I’m looking to collaborate on anything involving UX/UI at the moment!
+- 📫 You can reach me through my linkedin profile at https://www.linkedin.com/in/alyssa-go/ and Instagram at https://www.instagram.com/alyssagogh/ :--)
